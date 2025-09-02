@@ -47,8 +47,8 @@ MusicScape employs Big Data processing to uncover patterns within the Million So
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/MusicScape-Big-Data-ML-Analysis.git
-   cd MusicScape-Big-Data-ML-Analysis
+   git clone https://github.com/alecpippas/Scalable_K_Means_Clustering_Million_Songs_Dataset.git
+   cd Scalable_K_Means_Clustering_Million_Songs_Dataset
    ```
 
 2. Create a virtual environment and install dependencies:
